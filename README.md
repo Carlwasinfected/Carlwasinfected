@@ -47,8 +47,8 @@ I felt byond trilled to join Amazon as an SDE intern this summer in Seattle.
 </div> -->
 
 
-### Stats
-<div align="center"><img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" ></div>
+### The snake is eating my contributions! 🐍
+<div align="center"><img src="https://github.com/Carlwasinfected/Carlwasinfected/blob/output/github-contribution-grid-snake.svg" ></div>
 
 <!-- <div>
 <img align="right" height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlwasinfected&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
