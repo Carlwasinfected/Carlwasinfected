@@ -12,16 +12,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-	
+
+<!-- ![](https://raw.githubusercontent.com/Carlwasinfected/Carlwasinfected/master/imgs/pinkfloyd1.jpg) -->
+![](https://raw.githubusercontent.com/Carlwasinfected/Carlwasinfected/master/imgs/pinkfloyd2.jpg)
+> *Many thanks to **Pink Floyd** and their artwork, especially when I was debugging. :)*
 
 
 ### Howdy, Vistor! &nbsp;&nbsp;![](https://visitor-badge.glitch.me/badge?page_id=yx-hh/yx-hh&style=flat-square&color=0088cc)&nbsp;&nbsp; 👋
-> You are more than welcome to connect with me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/canwang99/). 
+> FYI You are more than welcome to connect with me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/canwang99/). 
 Or, you can view my latest resume(Jun 22' Version) [here](https://drive.google.com/file/d/1GGB4e8uRRk-ChYi4KCc50zN-7lMsJRXV/view?usp=sharing). 
   
 ### A Short Intro Here
-Hey there! My name is Can(Carl) Wang 「*汪 粲*」 and I am a software engineering major master student(Expected to graduate in Dec 22') at UC Irvine 🏛. 
-I felt byond trilled to join Amazon as an SDE intern this summer in Seattle.
+Hey there! My name is Can(Carl) Wang 「*汪 粲*」 and I am a software engineering major master student **(Expected to graduate in Dec)** at UC Irvine 🏛. 
+I felt beyond thrilled to join Amazon as an SDE intern this summer in Seattle. 
 
 
 ###  Quick Facts About Me 🧐:
