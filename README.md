@@ -32,7 +32,7 @@ I felt byond trilled to join Amazon as an SDE intern this summer in Seattle.
 </div>
 
 - 👨🏻‍💻 &nbsp; **Experience**: <br> &nbsp;&nbsp;&nbsp;&nbsp; I have three SDE internship experiences so far and Amazon is the latest 
-    <br> &nbsp;&nbsp;&nbsp;&nbsp; one.
+    <br> &nbsp;&nbsp;&nbsp;&nbsp; one. More info is available [here](https://www.linkedin.com/in/canwang99/).
 - 🚀 &nbsp; **Goal:** <br> &nbsp;&nbsp;&nbsp;&nbsp; My interest lies in back-end and infrastructure development.
 
 - 🛠 &nbsp; **Tech Stacks**: 
@@ -48,7 +48,7 @@ I felt byond trilled to join Amazon as an SDE intern this summer in Seattle.
 
 
 ### The snake is eating my contributions! 🐍
-<div align="center"><img src="https://github.com/Carlwasinfected/Carlwasinfected/blob/output/github-contribution-grid-snake.svg" ></div>
+<div align="left"><img src="https://github.com/Carlwasinfected/Carlwasinfected/blob/output/github-contribution-grid-snake.svg" ></div>
 
 <!-- <div>
 <img align="right" height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlwasinfected&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
