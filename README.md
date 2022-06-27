@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <!-- ![](https://raw.githubusercontent.com/Carlwasinfected/Carlwasinfected/master/imgs/pinkfloyd1.jpg) -->
 ![](https://raw.githubusercontent.com/Carlwasinfected/Carlwasinfected/master/imgs/pinkfloyd2.jpg)
-> *Many thanks to **Pink Floyd** and their artwork, especially when I was debugging. :)*
+> *Many thanks to **[Pink Floyd](https://www.pinkfloyd.com)** and their artwork, especially when I was debugging. :)*
 
 
 ### Howdy, Vistor! &nbsp;&nbsp;![](https://visitor-badge.glitch.me/badge?page_id=yx-hh/yx-hh&style=flat-square&color=0088cc)&nbsp;&nbsp; 👋
@@ -34,8 +34,8 @@ I felt beyond thrilled to join Amazon as an SDE intern this summer in Seattle.
 <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api?username=Carlwasinfected&show_icons=true&include_all_commits=true&count_private=true&theme=cobalt&layout=compact" />
 </div>
 
-- 👨🏻‍💻 &nbsp; **Experience**: <br> &nbsp;&nbsp;&nbsp;&nbsp; I have three SDE internship experiences so far and Amazon is the latest 
-    <br> &nbsp;&nbsp;&nbsp;&nbsp; one. More info is available [here](https://www.linkedin.com/in/canwang99/).
+- 👨🏻‍💻 &nbsp; **Experience**: <br> &nbsp;&nbsp;&nbsp;&nbsp; I have three SDE internship experiences so far and  <br> &nbsp;&nbsp;&nbsp;&nbsp; Amazon is the latest 
+    one. More info is available [here](https://www.linkedin.com/in/canwang99/).
 - 🚀 &nbsp; **Goal:** <br> &nbsp;&nbsp;&nbsp;&nbsp; My interest lies in back-end and infrastructure development.
 
 - 🛠 &nbsp; **Tech Stacks**: 
