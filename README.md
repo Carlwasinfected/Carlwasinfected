@@ -28,7 +28,7 @@ I felt byond trilled to join Amazon as an SDE intern this summer in Seattle.
 > I am always passionate about using what I've learned to create impactful tools and benefit people with diversity and inclusion.
 
 <div>
-<img align="right" height="160em" src="https://github-readme-stats.vercel.app/api?username=Carlwasinfected&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img align="right" height="160em" src="https://github-readme-stats.vercel.app/api?username=Carlwasinfected&show_icons=true&include_all_commits=true&count_private=true&theme=cobalt&layout=compact" />
 </div>
 
 - 👨🏻‍💻 &nbsp; **Experience**: <br> &nbsp;&nbsp;&nbsp;&nbsp; I have three SDE internship experiences so far and Amazon is the latest 
